@@ -1,3 +1,3 @@
-THis is my repo
+This is my repo
 
 

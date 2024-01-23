@@ -5,8 +5,8 @@ class add2:
   def addition(self):
     return self.a+self.b
 
-__name__='__main__':
-number_1=int(input("Enter the first number:"))
-number_2=int(input("Enter the second number:))
-object32=add2(number_1,number_2)
-print(object32.addition)
+if __name__=="__main__":
+  number_1=int(input("Enter the first number:"))
+  number_2=int(input("Enter the second number:"))
+  object32=add2(number_1,number_2)
+  print(object32.addition())

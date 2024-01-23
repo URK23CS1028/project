@@ -19,4 +19,5 @@ class numbers:
 
 print("ww")
 object32=numbers(int(input()),input())
+print("Printing")
 print(object32.sum())
